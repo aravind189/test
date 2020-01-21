@@ -24,3 +24,33 @@ this is a test for git class --  3
 
 
 adding some changes
+
+
+this is a test for git class --  1
+this is a test for git class --  2
+this is a test for git class --  3
+====================================
+<<<<<<< HEAD
+this is a test for git class --  4
+this is a test for git class --  5
+this is a test for git class --  6
+=======
+this is a test for git class --  1
+this is a test for git class --  2
+this is a test for git class --  3
+
+
+
+this is a test for git class --  1
+this is a test for git class --  2
+this is a test for git class --  3
+====================================
+this is a test for git class --  1
+this is a test for git class --  2
+this is a test for git class --  3
+>>>>>>> rel
+
+
+adding some changes
+
+
