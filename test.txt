@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 this is a test for git class --  1
 this is a test for git class --  2
 this is a test for git class --  3
@@ -21,3 +22,6 @@ this is a test for git class --  1
 this is a test for git class --  2
 this is a test for git class --  3
 >>>>>>> rel
+=======
+this is a test for git class --  1
+>>>>>>> parent of ad1aceb... 3rd commit
