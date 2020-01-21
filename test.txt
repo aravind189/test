@@ -1,1 +1,3 @@
 this is a test for git class --  1
+this is a test for git class --  2
+this is a test for git class --  3
